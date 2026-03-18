@@ -7,8 +7,14 @@ function Home() {
             <Image
               src="/assets/img/cats.jpeg"
               alt="picture of my cats"
-              width={300}
-              height={500}
+              width={600}
+              height={400}
+            />
+            <Image
+              src="/assets/img/danju.jpeg"
+              alt="us forever"
+              width={600}
+              height={400}
             />
         </>
     )
