@@ -24,7 +24,7 @@ function Home() {
 }
 
 function teste1() {
-  console.log("teste1")
+  console.log("teste1");
 }
 
 export default Home;
